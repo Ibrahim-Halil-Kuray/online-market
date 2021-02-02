@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(211, 81, 107);
+}
+
+main{
+    background-color: cornsilk;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+th:nth-child(1),td:nth-child(1){
+    background-color: rgb(159, 214, 95);
+}
+th:nth-child(2),td:nth-child(2){
+    background-color: cyan;
+}
+th:nth-child(3),td:nth-child(3){
+    background-color: rgb(233, 209, 101);
+}
+th:nth-child(4),td:nth-child(4){
+    background-color: rgb(166, 93, 214);
+    text-align: center;
+}
+th:nth-child(5),td:nth-child(5){
+    background-color: rgb(103, 34, 233);
+}
+th:nth-child(6),td:nth-child(6){
+    background-color: rgb(21, 175, 85);
+}
+button{
+    background-color: green;
+}
+img{
+    height: 24px;
+}
